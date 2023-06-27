@@ -1,2 +1,2 @@
-# Netwrok_2_project
+# Project Overview
 This GitHub project showcases the design and implementation of a network using Cisco Packet Tracer for a coffee shop with four divisions. Each department within the coffee shop has its own dedicated network, providing secure and efficient communication between them. The project focuses on utilizing a logical topology to create an interconnected network infrastructure, along with Wireless LAN Controller (WLC) configurations and routing protocols such as RIP (Routing Information Protocol) and OSPF (Open Shortest Path First) for optimal network functionality.
